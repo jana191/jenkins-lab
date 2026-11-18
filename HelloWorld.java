@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Webhook is working now!");
+        System.out.println("Automatic pipline test!!");
     }
 }
