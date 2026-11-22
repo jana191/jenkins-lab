@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Automatic pipline test!!");
+        System.out.println("Automatic piplineing Test!!");
     }
 }
